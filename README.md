@@ -1,6 +1,8 @@
 # arduino-car
 Arduino Car Controlled from a mobile app
 
+Using the joystick from the mobile app the HC-05 recives X and Y coordinates that are controling the movement of the motors. For turning left only the right motors are moving. For turning right only the left motors are moving.
+
 Components:
 - 1x Arduino Uno
 - 1x L298N driver

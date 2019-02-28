@@ -12,4 +12,4 @@ Components:
 - 1x small Breadboard
 - Wires
 
-Demo Video
+<a href="https://youtu.be/CsDAvRjv5tw" target="_blank">Demo Video</a>
